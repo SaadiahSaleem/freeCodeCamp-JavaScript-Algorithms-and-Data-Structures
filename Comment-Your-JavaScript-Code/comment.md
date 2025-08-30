@@ -8,7 +8,7 @@ Using // will tell JavaScript to ignore the remainder of the text on the current
 
 <pre> ```javascript
 // This is an in-line comment.
-You can make a multi-line comment beginning with /* and ending with */.</pre>pre>
+You can make a multi-line comment beginning with /* and ending with */.</pre>
 
 This is a multi-line comment:
 
