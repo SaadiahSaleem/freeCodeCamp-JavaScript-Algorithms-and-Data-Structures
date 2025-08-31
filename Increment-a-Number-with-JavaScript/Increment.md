@@ -16,7 +16,7 @@ i = i + 1;
 Change the code to use the `++` operator on `myVar`.
 
 ### Instructions:
-`myVar` should equal 88.
+1. `myVar` should equal 88.
 2. You should not use the assignment operator.
 3. You should use the `++` operator.
 4. You should not change code above the specified comment.
