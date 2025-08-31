@@ -1,4 +1,4 @@
-#Declare JavaScript Variables
+# Declare JavaScript Variables
 
 In computer science, data is anything that is meaningful to the computer. JavaScript provides eight different data types which are `undefined`, `null`, `boolean`, `string`, `symbol`, `bigint`, `number`, and `object`.
 
@@ -14,7 +14,7 @@ We tell JavaScript to create or declare a variable by putting the keyword `var` 
 
 creates a variable called `ourName`. In JavaScript we end statements with semicolons. Variable names can be made up of numbers, letters, and `$` or `_`, but may not contain spaces or start with a number.
 
-###Hint
+### Hint
 Look at the `ourName` example above if you get stuck.
 
 <pre>1. You should declare `myName` with the `var` keyword, ending with a semicolon</pre>
