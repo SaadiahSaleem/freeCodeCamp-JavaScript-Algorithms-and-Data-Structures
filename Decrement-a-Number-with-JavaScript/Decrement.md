@@ -31,8 +31,8 @@ myVar = myVar - 1;
 ```
 
 ## After Output:
-```javascriptlet
-myVar = 11;
+```javascript
+let myVar = 11;
 
 // Only change code below this line
 myVar--;
