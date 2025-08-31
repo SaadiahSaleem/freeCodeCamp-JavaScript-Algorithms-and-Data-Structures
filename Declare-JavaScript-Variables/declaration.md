@@ -16,5 +16,4 @@ creates a variable called `ourName`. In JavaScript we end statements with semico
 ### Hint
 Look at the `ourName` example above if you get stuck.
 
-<pre>1. You should declare `myName` with the `var` keyword, ending with a semicolon</pre>
-
+1. You should declare `myName` with the `var` keyword, ending with a semicolon
