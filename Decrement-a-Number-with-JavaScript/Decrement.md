@@ -1,38 +1,38 @@
-# Increment a Number with JavaScript
+# Decrement a Number with JavaScript
 
-You can easily increment or add one to a variable with the `++` operator.
+You can easily *decrement* or decrease a variable by one with the `--` operator.
 
 ```javascript
-i++;
+i--;
 ```
 is the equivalent of
 
 ```javascript
-i = i + 1;
+i = i - 1;
 ```
 
-**Note:** The entire line becomes `i++;`, eliminating the need for the equal sign.
+**Note:** The entire line becomes `i--;`, eliminating the need for the equal sign.
 
-Change the code to use the `++` operator on `myVar`.
+Change the code to use the `--` operator on `myVar`.
 
 ### Instructions:
-`myVar` should equal 88.
-2. You should not use the assignment operator.
-3. You should use the `++` operator.
-4. You should not change code above the specified comment.
+1. `myVar` should equal `10`.
+2. `myVar = myVar - 1`; should be changed.
+3. You should not assign `myVar` with `10`.
+4. You should use the `--` operator on `myVar`.
+5. You should not change code above the specified comment.
 
 ## Before Output:
 ```javascript
-let myVar = 87;
+let myVar = 11;
 
 // Only change code below this line
-myVar = myVar + 1;
+myVar = myVar - 1;
 ```
 
 ## After Output:
-```javascript
-let myVar = 87;
+```javascriptlet myVar = 11;
 
 // Only change code below this line
-myVar++;
+myVar--;
 ```
