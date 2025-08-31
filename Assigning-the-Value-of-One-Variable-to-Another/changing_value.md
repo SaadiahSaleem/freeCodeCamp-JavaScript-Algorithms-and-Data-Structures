@@ -2,8 +2,7 @@
 
 After a value is assigned to a variable using the *assignment* operator, you can assign the value of that variable to another variable using the *assignment* operator.
 
-<pre> ```javascript
-var myVar;
+<pre> ```javascript var myVar;
 myVar = 5;
 var myNum;
 myNum = myVar;</pre>
@@ -20,9 +19,8 @@ Assign the contents of `a` to variable `b`.
 
 ## Before Output:
 
-<pre> ```javascript
-// Setup
-var a;
+<pre> ```javascript // Setup
+var a; 
 a = 7;
 var b;
 
