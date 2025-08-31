@@ -19,12 +19,12 @@ Modify the existing declarations and assignments so their names use *camelCase*.
 Do not create any new variables.
 
 ### Instructions:
-1. studlyCapVar should be defined and have a value of 10.
-2. properCamelCase should be defined and have a value of the string A String.
-3. titleCaseOver should be defined and have a value of 9000.
-4. studlyCapVar should use camelCase in both declaration and assignment sections.
-5. properCamelCase should use camelCase in both declaration and assignment sections.
-6. titleCaseOver should use camelCase in both declaration and assignment sections.
+1. `studlyCapVar` should be defined and have a value of 10.
+2. `properCamelCase` should be defined and have a value of the string A String.
+3. `titleCaseOver` should be defined and have a value of 9000.
+4. `studlyCapVar` should use camelCase in both declaration and assignment sections.
+5. `properCamelCase` should use camelCase in both declaration and assignment sections.
+6. `titleCaseOver` should use camelCase in both declaration and assignment sections.
 
 ## Before Output:
 ```javascript
