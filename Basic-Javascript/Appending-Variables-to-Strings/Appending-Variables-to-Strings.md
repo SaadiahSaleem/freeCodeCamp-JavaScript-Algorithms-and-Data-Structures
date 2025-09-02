@@ -1,6 +1,6 @@
 # Appending Variables to Strings
 
-Just as we can build a string over multiple lines out of string _literals_, we can also append variables to a string using the plus equals (+=) operator.
+Just as we can build a string over multiple lines out of string _literals_, we can also append variables to a string using the plus equals (`+=`) operator.
 
 **Example:**
 ```javascript
