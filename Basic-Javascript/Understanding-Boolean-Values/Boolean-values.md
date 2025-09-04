@@ -1,0 +1,33 @@
+# Understanding Boolean Values
+
+Another data type is the _Boolean_. Booleans may only be one of two values: `true` or `false`. They are basically little on-off switches, where `true` is on and `false` is off. These two states are mutually exclusive.
+
+**Note:** Boolean values are never written with quotes. The strings `"true"` and `"false"` are not Boolean and have no special meaning in JavaScript.
+
+Modify the `welcomeToBooleans` function so that it returns `true` instead of `false`.
+
+### Instructions:
+1. The `welcomeToBooleans()` function should return a Boolean (`true` or `false`) value.
+2. `welcomeToBooleans()` should return `true`.
+
+## Before Output:
+```javascript
+function welcomeToBooleans() {
+  // Only change code below this line
+
+  return false; // Change this line
+
+  // Only change code above this line
+}
+```
+
+## After Output:
+```javascript
+function welcomeToBooleans() {
+  // Only change code below this line
+
+  return true; // Change this line
+
+  // Only change code above this line
+}
+```
