@@ -1,0 +1,49 @@
+# Comparison with the Strict Equality Operator
+
+Strict equality (`===`) is the counterpart to the equality operator (`==`). However, unlike the equality operator, which attempts to convert both values being compared to a common type, the strict equality operator does not perform a type conversion.
+
+If the values being compared have different types, they are considered unequal, and the strict equality operator will return false.
+
+**Examples**
+```javascript
+3 ===  3  // true
+3 === '3' // false
+```
+
+In the second example, `3` is a `Number` type and `'3'` is a `String` type.
+
+Use the strict equality operator in the `_if_` statement so the function will return the string `Equal` when `val` is strictly equal to `7`.
+
+### Instructions:
+1. `testStrict(10)` should return the string `Not Equal`
+2. `testStrict(7)` should return the string `Equal`
+3. `testStrict("7")` should return the string `Not Equal`
+4. You should use the `===` operator
+
+## Before Output:
+```javascript
+// Setup
+function testStrict(val) {
+  if (val) { // Change this line
+    return "Equal";
+  }
+  return "Not Equal";
+}
+
+testStrict(10);
+```
+
+## After Output:
+```javascript
+// Setup
+function testStrict(val) {
+  if (val===7) { // Change this line
+    return "Equal";
+  }
+  return "Not Equal";
+}
+
+testStrict(10);
+testStrict(7);
+testStrict("7");
+```
