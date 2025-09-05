@@ -21,8 +21,8 @@ This repository contains my solutions for the **Basic JavaScript** section of th
 
 ## 📊 Progress
 - **Total Tasks:** 113
-- **Completed:** 68 ✅
-- **Remaining:** 45 🚧
+- **Completed:** 91 ✅
+- **Remaining:** 22 🚧
 
 ---
 
@@ -108,36 +108,37 @@ This repository contains my solutions for the **Basic JavaScript** section of th
 - [x] 67. Comparison with the Less Than Operator
 - [x] 68. Comparison with the Less Than Or Equal To Operator
 
+### Switch Statements
+- [x] 69. Comparisons with the Logical And Operator
+- [x] 70. Comparisons with the Logical Or Operator
+- [x] 71. Introducing Else Statements
+- [x] 72. Introducing Else If Statements
+- [x] 73. Logical Order in If Else Statements
+- [x] 74. Chaining If Else Statements
+- [x] 75. Golf Code
+- [x] 76. Selecting from Many Options with Switch Statements
+- [x] 77. Adding a Default Option in Switch Statements
+- [x] 78. Multiple Identical Options in Switch Statements
+- [x] 79. Replacing If Else Chains with Switch
+- [x] 80. Returning Boolean Values from Functions
+- [x] 81. Return Early Pattern for Functions
+- [x] 82. Counting Cards
+
+### Objects
+- [x] 83. Build JavaScript Objects
+- [x] 84. Accessing Object Properties with Dot Notation
+- [x] 85. Accessing Object Properties with Bracket Notation
+- [x] 86. Accessing Object Properties with Variables
+- [x] 87. Updating Object Properties
+- [x] 88. Add New Properties to a JavaScript Object
+- [x] 89. Delete Properties from a JavaScript Object
+- [x] 90. Using Objects for Lookups
+- [x] 91. Testing Objects for Properties
+      
 ---
 
 ## 🚧 Pending Challenges
 
-### Switch Statements
-- [ ] 69. Comparisons with the Logical And Operator
-- [ ] 70. Comparisons with the Logical Or Operator
-- [ ] 71. Introducing Else Statements
-- [ ] 72. Introducing Else If Statements
-- [ ] 73. Logical Order in If Else Statements
-- [ ] 74. Chaining If Else Statements
-- [ ] 75. Golf Code
-- [ ] 76. Selecting from Many Options with Switch Statements
-- [ ] 77. Adding a Default Option in Switch Statements
-- [ ] 78. Multiple Identical Options in Switch Statements
-- [ ] 79. Replacing If Else Chains with Switch
-- [ ] 80. Returning Boolean Values from Functions
-- [ ] 81. Return Early Pattern for Functions
-- [ ] 82. Counting Cards
-
-### Objects
-- [ ] 83. Build JavaScript Objects
-- [ ] 84. Accessing Object Properties with Dot Notation
-- [ ] 85. Accessing Object Properties with Bracket Notation
-- [ ] 86. Accessing Object Properties with Variables
-- [ ] 87. Updating Object Properties
-- [ ] 88. Add New Properties to a JavaScript Object
-- [ ] 89. Delete Properties from a JavaScript Object
-- [ ] 90. Using Objects for Lookups
-- [ ] 91. Testing Objects for Properties
 - [ ] 92. Manipulating Complex Objects
 - [ ] 93. Accessing Nested Objects
 - [ ] 94. Accessing Nested Arrays
