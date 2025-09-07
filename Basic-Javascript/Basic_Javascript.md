@@ -134,15 +134,14 @@ This repository contains my solutions for the **Basic JavaScript** section of th
 - [x] 89. Delete Properties from a JavaScript Object
 - [x] 90. Using Objects for Lookups
 - [x] 91. Testing Objects for Properties
-      
+- [x] 92. Manipulating Complex Objects
+- [x] 93. Accessing Nested Objects
+- [x] 94. Accessing Nested Arrays
+- [x] 95. Record Collection
+
 ---
 
 ## 🚧 Pending Challenges
-
-- [ ] 92. Manipulating Complex Objects
-- [ ] 93. Accessing Nested Objects
-- [ ] 94. Accessing Nested Arrays
-- [ ] 95. Record Collection
 
 ### Loops & Iteration
 - [ ] 96. Iterate with JavaScript While Loops
