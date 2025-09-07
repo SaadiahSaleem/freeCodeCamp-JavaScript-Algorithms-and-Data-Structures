@@ -21,12 +21,12 @@ delete ourDog.bark;
 After the last line shown above, `ourDog` looks like:
 
 ```javascript
-{
+const ourDog = {
   "name": "Camper",
   "legs": 4,
   "tails": 1,
   "friends": ["everything!"]
-}
+};
 ```
 
 Delete the `tails` property from `myDog`. You may use either dot or bracket notation.
