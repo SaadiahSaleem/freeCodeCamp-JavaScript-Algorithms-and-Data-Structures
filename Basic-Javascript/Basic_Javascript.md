@@ -21,8 +21,8 @@ This repository contains my solutions for the **Basic JavaScript** section of th
 
 ## 📊 Progress
 - **Total Tasks:** 113
-- **Completed:** 91 ✅
-- **Remaining:** 22 🚧
+- **Completed:** 101 ✅
+- **Remaining:** 12 🚧
 
 ---
 
@@ -139,17 +139,19 @@ This repository contains my solutions for the **Basic JavaScript** section of th
 - [x] 94. Accessing Nested Arrays
 - [x] 95. Record Collection
 
+
+### Loops & Iteration
+- [x] 96. Iterate with JavaScript While Loops
+- [x] 97. Iterate with JavaScript For Loops
+- [x] 98. Iterate Odd Numbers With a For Loop
+- [x] 99. Count Backwards With a For Loop
+- [x] 100. Iterate Through an Array with a For Loop
+- [x] 101. Nesting For Loops
+      
 ---
 
 ## 🚧 Pending Challenges
 
-### Loops & Iteration
-- [ ] 96. Iterate with JavaScript While Loops
-- [ ] 97. Iterate with JavaScript For Loops
-- [ ] 98. Iterate Odd Numbers With a For Loop
-- [ ] 99. Count Backwards With a For Loop
-- [ ] 100. Iterate Through an Array with a For Loop
-- [ ] 101. Nesting For Loops
 - [ ] 102. Iterate with JavaScript Do...While Loops
 - [ ] 103. Replace Loops using Recursion
 - [ ] 104. Profile Lookup
