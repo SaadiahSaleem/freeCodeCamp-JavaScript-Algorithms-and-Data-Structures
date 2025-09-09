@@ -147,29 +147,22 @@ This repository contains my solutions for the **Basic JavaScript** section of th
 - [x] 99. Count Backwards With a For Loop
 - [x] 100. Iterate Through an Array with a For Loop
 - [x] 101. Nesting For Loops
-      
----
-
-## 🚧 Pending Challenges
-
-- [ ] 102. Iterate with JavaScript Do...While Loops
-- [ ] 103. Replace Loops using Recursion
-- [ ] 104. Profile Lookup
+- [x] 102. Iterate with JavaScript Do...While Loops
+- [x] 103. Replace Loops using Recursion
+- [x] 104. Profile Lookup
 
 ### Math, Random & Recursion
-- [ ] 105. Generate Random Fractions with JavaScript
-- [ ] 106. Generate Random Whole Numbers with JavaScript
-- [ ] 107. Generate Random Whole Numbers within a Range
-- [ ] 108. Use the parseInt Function
-- [ ] 109. Use the parseInt Function with a Radix
-- [ ] 110. Use the Conditional (Ternary) Operator
-- [ ] 111. Use Multiple Conditional (Ternary) Operators
-- [ ] 112. Use Recursion to Create a Countdown
-- [ ] 113. Use Recursion to Create a Range of Numbers
+- [x] 105. Generate Random Fractions with JavaScript
+- [x] 106. Generate Random Whole Numbers with JavaScript
+- [x] 107. Generate Random Whole Numbers within a Range
+- [x] 108. Use the parseInt Function
+- [x] 109. Use the parseInt Function with a Radix
+- [x] 110. Use the Conditional (Ternary) Operator
+- [x] 111. Use Multiple Conditional (Ternary) Operators
+- [x] 112. Use Recursion to Create a Countdown
+- [x] 113. Use Recursion to Create a Range of Numbers
 
 ---
 
 ## 📌 Notes
 - ✅ = Completed
-- 🚧 = Not Passed yet (to be updated soon)
-- I’ll keep updating this list until all **113 tasks** are solved.
