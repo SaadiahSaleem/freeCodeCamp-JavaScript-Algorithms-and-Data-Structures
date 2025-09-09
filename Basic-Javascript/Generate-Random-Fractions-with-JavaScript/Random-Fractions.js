@@ -1,0 +1,10 @@
+function randomFraction() {
+
+    // Only change code below this line
+    return Math.random();
+
+
+    // Only change code above this line
+}
+console.log(randomFraction(1));
+console.log(randomFraction(2));
