@@ -6,10 +6,29 @@ Issues in code generally come in three forms: syntax errors that prevent your pr
 
 In this course, you'll learn how to use the JavaScript console to debug programs and prevent common issues before they happen.
 
-## 1. Understanding Common Error Types
+## 📘 What I Learned
+- Different types of errors in JavaScript:
+  - **Syntax errors** → prevent code from running.
+  - **Runtime errors** → code runs but behaves unexpectedly.
+  - **Logical errors** → code runs but doesn’t do what was intended.
+- How to use the **JavaScript console** (`console.log`, `console.clear`, etc.) to debug programs.
+- Techniques to spot errors before they happen.
 
-### Syntax Errors
-- Caused when code is not written in proper JavaScript syntax.
-- Example:
-  ```js
-  console.log("Hello World" // Missing closing parenthesis
+---
+
+## 🛠️ Key Concepts
+- **Console methods**:
+  - `console.log()` → print variables/values for inspection.
+  - `console.clear()` → clear the console output.
+  - `console.error()` → highlight errors.
+  - `console.table()` → display objects/arrays neatly.
+- **Debugging steps**:
+  1. Isolate the problem.
+  2. Reproduce the issue.
+  3. Use console outputs or debugging tools.
+  4. Fix and test again.
+- Importance of reading **error messages carefully**.
+
+---
+Each file in this section contains a challenge from **freeCodeCamp - Debugging**:
+
