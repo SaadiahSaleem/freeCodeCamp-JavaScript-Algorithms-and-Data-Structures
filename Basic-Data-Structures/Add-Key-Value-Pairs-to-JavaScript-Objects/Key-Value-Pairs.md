@@ -54,11 +54,17 @@ A `foods` object has been created with three entries. Using the syntax of your c
 
 ## Before Output:
 ```javascript
-Waiting:1. foods should be an object.
-Waiting:2. The foods object should have a key bananas with a value of 13.
-Waiting:3. The foods object should have a key grapes with a value of 35.
-Waiting:4. The foods object should have a key strawberries with a value of 27.
-Waiting:5. The definition of the foods object should not be changed.
+const foods = {
+  apples: 25,
+  oranges: 32,
+  plums: 28
+};
+
+// Only change code below this line
+
+// Only change code above this line
+
+console.log(foods);
 ```
 
 ## After Output:
