@@ -133,16 +133,13 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 4. Push to the branch (`git push origin feature-name`).
 5. Open a pull request.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+### Explanation:
 
-```
+- **Examples**: Basic FP concepts like pure functions, higher-order functions, recursion, and immutability are demonstrated using JavaScript.
+- **Features**: Lists key functional programming features.
+- **Contributing**: Basic instructions for contributing to the repository.
+- **License**: Placeholder for licensing details (you can update this with actual license information).
 
-### How to Use This:
 
-- **Copy-Paste**: You can now easily copy the full README content as is.
-- **Customization**: You can modify the "Course Structure" section or add any specific links or learning resources to fit your needs.
-
-If you're doing this for a freeCodeCamp course, the structure reflects the lessons typically covered in their functional programming curriculum.
 ```
